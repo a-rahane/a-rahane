@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I’m Aadita Rahane
+# 👋 Hey there, I’m Aadita Rahane
 
 Currently studying Computer Engineering at NMIMS MPSTME, graduating in 2026.
 
