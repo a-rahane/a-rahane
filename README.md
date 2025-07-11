@@ -51,16 +51,6 @@ Not everything I do ends in a semicolon.
 
 ---
 
-### 🎈 Fun Facts
-
-- Once benchmarked cryptographic algorithms *for fun*. Yes, willingly.  
-- Thinks scatter plots are underrated in storytelling.  
-- Has opinions about font choices in dashboards.  
-- Actually enjoys writing documentation (who hurt me? No one, I swear).  
-- If “making dashboards aesthetically pleasing” was a sport, I’d be regionally ranked.  
-
----
-
 ### 📬 Let’s Connect and Chat! Open to anything under the sun. 
 
 - [LinkedIn](https://www.linkedin.com/in/aadita-rahane/)  
